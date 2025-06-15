@@ -66,7 +66,7 @@ python app.py
 👉 https://delightful-zuccutto-fdf23f.netlify.app/
 
 ## ⭐ GitHub Repository
-[https://github.com/yourusername/DocMate](https://github.com/yourusername/DocMate)
+[[https://github.com/yourusername/DocMate]](https://github.com/AnanyaRamegowda/DocMate-Medical_Chatbot)
 
 
 
