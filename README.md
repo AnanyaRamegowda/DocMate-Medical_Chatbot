@@ -62,7 +62,7 @@ python app.py
 - Connect to real-time telemedicine platforms
 
 ## 🔗 Live Demo
-👉 [Try DocMate Live]([https://your-live-demo-link.com](https://delightful-zuccutto-fdf23f.netlify.app/))
+👉 (https://delightful-zuccutto-fdf23f.netlify.app/)([https://your-live-demo-link.com])
 
 ## ⭐ GitHub Repository
 [https://github.com/yourusername/DocMate](https://github.com/yourusername/DocMate)
