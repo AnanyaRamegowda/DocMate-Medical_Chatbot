@@ -62,6 +62,7 @@ python app.py
 - Connect to real-time telemedicine platforms
 
 ## 🔗 Live Demo
+- Try to go live to explore the DocMate – Your AI Doctor, Anytime, Anywhere 
 👉 https://delightful-zuccutto-fdf23f.netlify.app/
 
 ## ⭐ GitHub Repository
