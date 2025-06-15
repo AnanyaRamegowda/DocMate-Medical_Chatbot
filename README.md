@@ -8,7 +8,7 @@ DocMate is an AI-powered medical chatbot that provides basic healthcare guidance
 - 🧠 Predefined Condition Support – Covers 100+ common health concerns  
 - 💬 **Command Handling** – Use `/help`, `/info`, or `list` to explore available topics  
 - ⚠️ **Safe & Transparent** – Built-in disclaimers to remind users to consult professionals when needed  
-- 🔊 **Speech Engine Integration** – Uses Web Speech API for speech-to-text and text-to-speech functionality
+- 🔊 **Speech Engine Integration** – Uses Web Speech API for speech-to-text and text-to-speech functionality.
 
 ## 🧰 Tech Stack Overview
 -  Frontend – HTML, CSS, JavaScript (for UI and interaction)  
